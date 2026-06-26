@@ -1,0 +1,49 @@
+candidate:
+  name: "Your Name"
+  email: "rudisel.brett@gmail.com"
+  title: "Product Manager"
+  years_of_experience: 5  # update this
+
+  summary: |
+    Experienced Product Manager with a track record of shipping high-impact products.
+    Comfortable working across engineering, design, and business stakeholders.
+    Strong background in data-informed decision making, roadmap prioritization, and go-to-market.
+
+  skills:
+    - Product strategy and roadmapping
+    - Agile / Scrum
+    - User research and usability testing
+    - Data analysis (SQL, Amplitude, Mixpanel)
+    - A/B testing and experimentation
+    - Cross-functional leadership
+    - Go-to-market planning
+    - OKR frameworks
+    - Stakeholder management
+    - Competitive analysis
+
+  preferred_industries:
+    - SaaS
+    - FinTech
+    - Developer Tools
+    - AI / ML
+    - Consumer Tech
+
+  preferred_company_size:
+    - Startup (1-50)
+    - Scale-up (50-500)
+    - Mid-size (500-5000)
+
+  preferred_locations:
+    - Remote
+    - San Francisco, CA
+    - New York, NY
+
+  deal_breakers:
+    - No equity
+    - Requires 5+ days on-site
+    - Pure sales role
+
+  additional_context: |
+    I'm looking for a senior IC or lead PM role where I can own a product area end-to-end.
+    I thrive in fast-paced environments and prefer companies building in AI, developer tools, or fintech.
+    Open to contract or full-time. Not interested in management-heavy roles without IC work.
