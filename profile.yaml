@@ -1,0 +1,108 @@
+candidate:
+  name: "Brett M. Rudisel"
+  email: "rudisel.brett@gmail.com"
+  title: "AI Product Manager"
+  years_of_experience: 10
+  location: "Charlotte, NC (open to Remote)"
+
+  summary: |
+    AI Product leader with 10+ years delivering products at the intersection of business strategy,
+    AI, and enterprise execution. Specializes in identifying high-value opportunities, translating
+    operational signals into product strategy, and scaling AI capabilities that drive measurable
+    business outcomes. Experienced leading cross-functional teams across product, engineering, data
+    science, and risk in highly regulated environments (financial services).
+
+  skills:
+    # AI / Product Core
+    - AI Product Management
+    - Generative AI (GenAI) & Agentic Workflows
+    - Enterprise AI Platforms
+    - AI Governance & Model Risk Management (MRM)
+    - LLM Observability & Guardrails
+    # Strategy & Execution
+    - Product Strategy & Roadmapping
+    - Portfolio Prioritization & Intake
+    - Discovery & Opportunity Assessment
+    - OKR frameworks
+    - Executive Stakeholder Management
+    # Delivery
+    - Agile / SAFe
+    - Cross-functional delivery
+    - No-Code / Low-Code & Workflow Automation
+    - Backlog management
+    - Go-to-market planning
+
+  recent_achievements:
+    - "Grew Ally.ai adoption from 9% to 21% (4,500+ MAU, 346K+ prompts)"
+    - "Scaled production AI use cases from 9 to 43, cutting onboarding time ~50%"
+    - "Achieved 100% platform traffic coverage with guardrails and LLM observability"
+    - "Screened out ~30% of low-value initiatives via portfolio operating reviews"
+    - "Delivered agentic AI MVP with 20-person pilot team on 6-week timeline (PwC)"
+    - "Managed 7+ concurrent client engagements generating $3M+ revenue (Terazo)"
+    - "Led 5+ enterprise implementations valued $1M-$2M each (dunnhumby)"
+
+  experience:
+    - company: Ally Financial
+      title: AI Product Manager
+      dates: Nov 2024 – Present
+    - company: PricewaterhouseCoopers (PwC)
+      title: Associate Product Manager
+      dates: Jun 2023 – Nov 2024
+    - company: Terazo
+      title: Engagement Lead / Product Manager
+      dates: Mar 2021 – Jun 2023
+    - company: dunnhumby
+      title: Sr. Implementation Manager / Implementation Manager / Customer Success
+      dates: Mar 2016 – Mar 2021
+
+  education:
+    - degree: MBA
+      school: Wake Forest University School of Business
+      year: 2016
+    - degree: BS, Business
+      school: University of South Carolina, Darla Moore School of Business
+      year: 2012
+
+  certifications:
+    - SAFe 6 POPM (2024)
+    - AI For Everyone, DeepLearning.AI (2024)
+    - Digital Product Management, UVA Darden (2024)
+    - Agile Meets Design Thinking, UVA Darden (2024)
+
+  preferred_industries:
+    - AI / ML Platforms
+    - FinTech
+    - Enterprise SaaS
+    - Developer Tools
+    - Regulated Tech (Healthcare, Finance)
+
+  preferred_company_size:
+    - Scale-up (50-500)
+    - Mid-size (500-5000)
+    - Enterprise (5000+)
+
+  preferred_locations:
+    - Remote
+    - Charlotte, NC
+    - New York, NY
+
+  preferred_roles:
+    - AI Product Manager
+    - Senior Product Manager
+    - Lead Product Manager
+    - Director of Product (AI/Platform)
+
+  deal_breakers:
+    - No AI or data component to the role
+    - Requires 5+ days on-site outside Charlotte
+    - Pure sales or account management role
+    - No path to senior ownership
+
+  additional_context: |
+    Brett is an AI PM with deep experience in regulated enterprise environments (financial services).
+    He has hands-on experience with GenAI platform adoption, LLM observability, AI governance,
+    and agentic workflows — not just as a PM coordinating engineers, but as the person who defined
+    the intake process, governance lifecycle, and experimentation patterns that scaled from 9 to 43
+    production AI use cases. Ideal roles give him ownership of a platform or AI product area with
+    measurable business impact. Strong preference for companies where AI is central to the product,
+    not a bolt-on feature.
